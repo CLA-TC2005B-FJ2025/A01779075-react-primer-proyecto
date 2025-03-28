@@ -5,6 +5,7 @@ export function Tarjeta(props) {
     <div>
         <div>Npmbre del personaje: {props.nombre}</div>
         <div>Color favorito: {props.colorfavorito}</div>
+        <div><div/>
     </div>
   )
 }
